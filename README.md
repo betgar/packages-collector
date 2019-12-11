@@ -150,6 +150,18 @@ collect the package which are used in the project
 - vue-ref
 
   > https://github.com/vueComponent/vue-ref
+  
+- vue-promised
+
+  > https://github.com/posva/vue-promised
+
+- vue-compose-promise
+
+  > https://github.com/posva/vue-compose-promise
+
+- portal-vue
+
+  > https://github.com/linusborg/portal-vue
 
 ### fraud detection
 - fingerprintjs
@@ -238,4 +250,5 @@ collect the package which are used in the project
 - immerjs
 
   > https://github.com/immerjs/immer
+
 
