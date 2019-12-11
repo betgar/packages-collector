@@ -34,28 +34,28 @@ collect the package which are used in the project
 ### orm
 - typeorm
   
-> https://github.com/typeorm/typeorm
+  > https://github.com/typeorm/typeorm
   
 - bookshelf
-  
-> https://github.com/bookshelf/bookshelf
-  
+
+  > https://github.com/bookshelf/bookshelf
+
 - objection.js
-  
+
   > https://github.com/Vincit/objection.js
 
 ### utility
 
 - lodash(lodash-es)
   
-> https://github.com/lodash/lodash
+  > https://github.com/lodash/lodash
   
 - utility
-  
-> https://github.com/node-modules/utility
-  
+
+  > https://github.com/node-modules/utility
+
 - rimraf
-  
+
   > https://github.com/isaacs/rimraf
 
 ### keepalive
@@ -68,35 +68,40 @@ collect the package which are used in the project
 
 - lowdb
   
-> https://github.com/typicode/lowdb
+  > https://github.com/typicode/lowdb
   
 - vue-ls
-  
-> https://github.com/RobinCK/vue-ls
-  
+
+  > https://github.com/RobinCK/vue-ls
+
 - store.js
-  
-> https://github.com/marcuswestin/store.js/
-  
+
+  > https://github.com/marcuswestin/store.js/
+
 - localforage
-  
-> https://github.com/localForage/localForage
-  
+
+  > https://github.com/localForage/localForage
+
 - vuex-persistedstate
-  
+
   > https://github.com/robinvdvleuten/vuex-persistedstate
 
 ### serialize
+
+- querystring
+
+  > https://github.com/sindresorhus/query-string
+
 - qs
   
-> https://github.com/ljharb/qs
+  > https://github.com/ljharb/qs
   
 - msgpack5
-  
-> https://github.com/mcollina/msgpack5
-  
+
+  > https://github.com/mcollina/msgpack5
+
 - serialize-javascript
-  
+
   > https://github.com/yahoo/serialize-javascript
 
 ### download
@@ -108,17 +113,19 @@ collect the package which are used in the project
 ### date
 - dayjs
   
-> https://github.com/iamkun/dayjs
+  > https://github.com/iamkun/dayjs
   
 - moment
-  
+
   > https://github.com/moment/moment
+  >
+  > https://github.com/brockpetrie/vue-moment
 
 
 ### request & ajax
 - request
   
-> https://github.com/request/request
+  > https://github.com/request/request
   
 - axios.js
   > https://github.com/axios/axios
@@ -128,14 +135,14 @@ collect the package which are used in the project
 ### vue official
 - vuex-router-sync
   
-> https://github.com/vuejs/vuex-router-sync
+  > https://github.com/vuejs/vuex-router-sync
   
 - vuex
-  
-> https://github.com/vuejs/vuex
-  
+
+  > https://github.com/vuejs/vuex
+
 - vue-router
-  
+
   > https://github.com/vuejs/vue-router
 
 ### vue ecosystem
@@ -165,18 +172,18 @@ collect the package which are used in the project
 ### images
 - squoosh
   
-> https://github.com/GoogleChromeLabs/squoosh
+  > https://github.com/GoogleChromeLabs/squoosh
   
 - progressively
-  
-> https://github.com/thinker3197/progressively
-  
+
+  > https://github.com/thinker3197/progressively
+
 - lqip
-  
-> https://github.com/zouhir/lqip
-  
+
+  > https://github.com/zouhir/lqip
+
 - vue-cropper
-  
+
   > https://github.com/xyxiao001/vue-cropper
 
 ### monitor (error report)
@@ -223,3 +230,12 @@ collect the package which are used in the project
 - http-proxy-middleware
 
   > https://github.com/chimurai/http-proxy-middleware
+
+
+
+### state machine
+
+- immerjs
+
+  > https://github.com/immerjs/immer
+
