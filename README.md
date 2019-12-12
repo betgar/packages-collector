@@ -57,6 +57,14 @@ collect the package which are used in the project
 - rimraf
 
   > https://github.com/isaacs/rimraf
+  
+- mem
+
+  > [github.com/sindresorhus/mem](https://github.com/sindresorhus/mem)
+
+- memoize-one
+
+  > [github.com/alexreardon/memoize-one](https://github.com/alexreardon/memoize-one)
 
 ### keepalive
 - agentkeepalive
@@ -252,3 +260,21 @@ collect the package which are used in the project
   > https://github.com/immerjs/immer
 
 
+
+### polyfill
+
+- enquire.js： 解决media query
+
+  > https://github.com/wickynilliams/enquire.js/
+
+- polyfill: 在线polyfill
+
+  > https://polyfill.io/v3/
+
+
+
+### css & bem & classname
+
+- classnames
+
+  > https://github.com/JedWatson/classnames
