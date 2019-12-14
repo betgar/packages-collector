@@ -170,6 +170,9 @@ collect the package which are used in the project
 - portal-vue
 
   > https://github.com/linusborg/portal-vue
+  
+- vue-global-events （使用vue components来注册全局事件）
+  > https://github.com/shentao/vue-global-events
 
 ### fraud detection
 - fingerprintjs
