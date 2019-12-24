@@ -65,6 +65,10 @@ collect the package which are used in the project
 - memoize-one
 
   > [github.com/alexreardon/memoize-one](https://github.com/alexreardon/memoize-one)
+  
+- shvl ( 处理object的key通过.分割)
+
+  > https://github.com/robinvdvleuten/shvl
 
 ### keepalive
 - agentkeepalive
@@ -172,6 +176,7 @@ collect the package which are used in the project
   > https://github.com/linusborg/portal-vue
   
 - vue-global-events （使用vue components来注册全局事件）
+  
   > https://github.com/shentao/vue-global-events
 
 ### fraud detection
