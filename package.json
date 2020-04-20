@@ -58,6 +58,7 @@
     "store2": "^2.11.0",
     "typeorm": "^0.2.22",
     "utility": "^1.16.3",
+    "uuid": "^7.0.3",
     "vue-compose-promise": "0.0.5",
     "vue-global-events": "^1.1.2",
     "vue-ls": "^3.2.1",
